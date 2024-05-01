@@ -1,1 +1,26 @@
-# Python-ETL-Case-Study
+# Bicycle Store ETL Pipeline
+
+This project aims to develop an Extract, Transform, Load (ETL) pipeline for a bicycle store using Python. 
+The pipeline will facilitate the integration of data from diverse sources including databases, data lakes, and APIs, enabling seamless data processing and analysis.
+
+## Objective
+
+The primary objective of this project is to design and implement an end-to-end ETL process tailored specifically for a bicycle store. 
+By leveraging Python programming, the pipeline will efficiently handle data extraction, transformation, and loading tasks, ensuring the creation of a structured data model suitable for insightful analytics.
+
+## Features
+
+- **Database and Data Lake Setup:** Initialized a PostgreSQL database with schemas and tables for order and item data storage. Configured folders within a the device for storing additional data files.
+  
+- **Data Extraction:** Extracted data from PostgreSQL using custom SQL queries, read files from the data lake folder structure, and integrated real-time exchange rates fetched from APIs.
+
+- **Data Quality Checks:** Performed null checks, duplicate checks, and data validation to ensure data integrity and consistency. Prepared, cleaned and validated data for staging.
+
+- **Data Transformation:** Implemented various transformations including currency conversion, delivery metrics calculation, and locality flag determination. Utilized lookup tables for resolving ambiguous columns and stage transformed data for further processing.
+
+- **Data Modeling and Visualization:** Integrated orders, items, and product details into a unified dataset for in-depth analysis. Developed visualizations to illustrate key metrics and trends, and document modeling techniques and visualization choices.
+
+
+## License
+
+This project is licensed under the [MIT] License.
