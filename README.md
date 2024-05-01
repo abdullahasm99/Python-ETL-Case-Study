@@ -20,7 +20,6 @@ By leveraging Python programming, the pipeline will efficiently handle data extr
 
 - **Data Modeling and Visualization:** Integrated orders, items, and product details into a unified dataset for in-depth analysis. Developed visualizations to illustrate key metrics and trends, and document modeling techniques and visualization choices.
 
-![image](https://github.com/abdullahasm99/Python-ETL-Case-Study/assets/153215733/339f4187-8909-437b-ac12-b645611c3859)
 ![image](https://github.com/abdullahasm99/Python-ETL-Case-Study/assets/153215733/82a809ee-7ef9-4d13-812e-319b14a3a83a)
 ![image](https://github.com/abdullahasm99/Python-ETL-Case-Study/assets/153215733/2e1a99aa-1ebe-488f-9583-25ab61f6f5e3)
 
